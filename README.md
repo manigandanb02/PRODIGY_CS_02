@@ -126,7 +126,7 @@ python3 password_analyzer.py
 
 Watch the project demonstration on LinkedIn:
 
-[LinkedIn Demo Video](https://linkedin.com/in/manigandanb02)
+[LinkedIn Demo Video](https://www.linkedin.com/posts/manigandanb02_prodigyinfotech-cybersecurity-python-ugcPost-7473412828838780928-zf_p/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJ8ul4BQ42d707c6KxMYCd3agIPNUqbyhA)
 
 ---
 
